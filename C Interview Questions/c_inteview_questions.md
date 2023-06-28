@@ -4,7 +4,7 @@
 
 1. Data types in C
 2. Different between local and global variable.
-3. Difference between call by value and call by reference.
+3. Difference between call by value and call by reference. Why we used it? How array passed? (by value or by reference)
 4. What is recursion ?? What happen when recusion call infinite times. ?? How memory allocate in recursion function ??
 5. What is array ? 
 6. What is pointer and NULL pointer ??
@@ -41,4 +41,7 @@
     calculate size of above struture for 32 bit proccessor?
 7. Structure Padding.
 8. What is static keyword, uses and advantages ??
-9. What is header gaurd ?? use and advantages ??
+9. What is header gaurd ?? use and advantages ?? Why we use headers files?
+10. Differene between object file and library.
+11. How executable files build? Process?
+12. 
